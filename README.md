@@ -1,4 +1,4 @@
-⭕ All Commands 👇
+# Installation
 
 $ pkg update && pkg upgrade
 
@@ -14,6 +14,8 @@ $chmod +x *
 
 Now this game is ready for play 
 Type this command👇 for play
+
+# run
 
 $ python2 snk.py
 
