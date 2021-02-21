@@ -27,6 +27,6 @@ pkg update && pkg upgrade && pkg install git && pkg install python2 && git clone
 ```
 
 ### My Social Media ID
-[Instagram](https://instagram.com/hackerx30/)
-[Github](https://github.com/MrHacker-X/)
-[YouTube](https://youtube.com/channel/UC2t1smKARnlzoqELbyEhXVw/)
++ [Instagram](https://instagram.com/hackerx30/)
++ [Github](https://github.com/MrHacker-X/)
++ [YouTube](https://youtube.com/channel/UC2t1smKARnlzoqELbyEhXVw/)
